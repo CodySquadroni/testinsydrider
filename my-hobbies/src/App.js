@@ -1,5 +1,4 @@
 import Hobbies from "./Components/Hobbies/Hobbies";
-import NewHobby from "./Components/NewHobby/NewHobby";
 import NewHobbyForm from "./Components/NewHobby/NewHobbyForm";
 
 function App() {
